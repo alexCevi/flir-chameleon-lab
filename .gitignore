@@ -1,0 +1,10 @@
+.DS_Store
+
+chameleon-live
+*.o
+*.dSYM/
+
+*.pgm
+image.png
+
+libdc1394-*/
