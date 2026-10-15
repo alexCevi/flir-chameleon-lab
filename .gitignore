@@ -1,10 +1,14 @@
 .DS_Store
 
 chameleon-live
+flea3-live
+camera-live
 *.o
 *.dSYM/
 
 *.pgm
+*.ppm
+*.pdf
 image.png
 
 libdc1394-*/
